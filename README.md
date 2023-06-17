@@ -4,7 +4,8 @@
 <h3 align="center">
   A software engineer with a passion for problem-solving.
 </h3>
-  - 🔭 I’m currently working on <a href="https://www.repairq.io/">**RepairQ**</a> @<a href="https://ciandt.com/">CI&T</a>
+
+  - 🔭 I’m currently working on <a href="https://www.repairq.io/">**RepairQ**</a> at <a href="https://ciandt.com/">**CI&T**</a>
   
   - 🌱 I’m currently learning <a href="https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/">**Software Architecture Fundamentals**</a>
 
