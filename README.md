@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello, I'm Cesar Martini</h1>
 <h3 align="center">A software engineer with a passion for problem-solving.</h3>
 
-- 🔭 I’m currently working on **[RepairQ](https://github.com/RepairQ/RepairQ)**
+- 🔭 I’m currently working on **[RepairQ]([https://www.repairq.io/])**
 
-- 🌱 I’m currently learning **[AWS Solutions Architecture](https://explore.skillbuilder.aws/)**
+- 🌱 I’m currently learning **[Software Architecture]([https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447/])**
 
 
 <h3 align="left">Languages and Tools:</h3>
