@@ -110,23 +110,16 @@
 <h2 align="left" float="right">
   My Statistics
 </h2>
-<p align="left" float="right">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarmartini&" alt="cesarmartini" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarmartini&show_icons=true&locale=en" alt="cesarmartini" />
-  <br/>
-  <br/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarmartini&show_icons=true&locale=en&layout=compact" alt="cesarmartini" />
+<p align="left" style="width: 100%; display:block;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarmartini&show_icons=true&locale=en&layout=compact" alt="cesarmartini" />
 </p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-  
+<p align="left" style="width: 100%; display:block;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cesarmartini&show_icons=true&locale=en" alt="cesarmartini" />
+</p>
+<p align="left" style="width: 100%; display:block;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cesarmartini&" alt="cesarmartini" />
+</p>
+<br/>  
 <h2 align="left">
   Connect with me:
 </h2>
